@@ -1,3 +1,5 @@
+# Questions
+
 ## Création d'un Service Account :
 
 « Décrivez les étapes pour créer un Service Account dans GCP. Quelles sont les
@@ -23,3 +25,15 @@ bonnes pratiques à suivre en matière de gestion des clés et de sécurité ? �
 - « Expliquez comment configurer la facturation sur GCP. Quelles précautions recommanderiez-vous pour éviter des coûts imprévus lors du déploiement de projets ? »
 
 > La facturation est accessible dans l'onglet "Facturation", on peux analyser nos coûts sur une periode donnée. Pour eviter les couts imprevu, on peut mettre en place des alertes par mail quand on atteint un seuil de dépense définie sur une periode donnée. On peut également mettre en place un Pub/Sub.
+
+# Création d'un bucket 
+
+![image](./res/1_menu_principale.png)
+![image](./res/2_creer_bucket.png)
+![image](./res/3_commencer.png)
+![image](./res/4_stockage_donnees.png)
+![image](./res/5_classe_donnees.png)
+![image](./res/6_acces_donnees.png)
+![image](./res/7_conservation_donnees.png)
+![image](./res/8_resume.png)
+![image](./res/9_acces_publique.png)
